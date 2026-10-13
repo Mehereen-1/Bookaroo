@@ -289,12 +289,6 @@ Source Mermaid files are maintained in docs/diagrams.
 
 ## 10. Screenshots
 
-### Landing Page
-![Screenshot](./docs/screens/Landing.png)
-
-### Dashboards
-![Screenshot](./docs/screens/Dashboard.png)
-
 ### Key Feature Interfaces
 ![Screenshot](./docs/screens/Books.png)
 ![Screenshot](./docs/screens/Books.png)
